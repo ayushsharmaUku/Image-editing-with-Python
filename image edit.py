@@ -10,5 +10,6 @@ king = king.rotate(180)
 modiji.putalpha(250)
 modiji
 king = king.resize((1200,450))
+king
 modiji.paste(im=king,box=(0,450))
 modiji
